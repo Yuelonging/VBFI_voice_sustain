@@ -1,0 +1,2 @@
+# VBFI_voice_sustain
+修复了venus blood frontier international中r18语音不会被设置中的语音换行功能所控制的bug
